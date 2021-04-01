@@ -1,3 +1,6 @@
+#Criado por: Gabriel Jose
+#No dia: 01/04/2021
+
 import sys
 import win32api  #pip install pywin32
 import requests  # pip install requests
