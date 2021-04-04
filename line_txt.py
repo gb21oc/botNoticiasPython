@@ -31,6 +31,3 @@ def lineText():
           {tenth_line}"
 
     return msg
-
-
-lineText()
