@@ -1,3 +1,0 @@
-[7584:7532:0401/142808.951:ERROR:device_event_log_impl.cc(214)] [14:28:08.951] USB: usb_device_handle_win.cc:1056 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
-[7584:7532:0401/142808.988:ERROR:device_event_log_impl.cc(214)] [14:28:08.988] Bluetooth: bluetooth_adapter_winrt.cc:1162 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedByUserWill not be able to change radio power.
-[7584:7532:0401/142826.353:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
